@@ -1,16 +1,3 @@
-# Site Olarak Kullanım
-
-Bu e-ticaret sitesine "https://murat-gozen-e-commerce.netlify.app/" adresinden erişebilirsiniz, sitenin tam olarak yüklenmesi için siteyi açtığınızda yaklaşık 10 saniye kadar beklemeniz gerekmektedir.
-
-Sitenin github repository'si ise budur : "https://github.com/mrtgzn406/MERN_Stack_E-Commerce"
-
-Sitede bazı işlemlerin yapılması için kullanıcı girişi gerekiyor, Sağ üst taraftan "Hesap" simgesine basıp
-Login ve Register sayfalarına gidebilirsiniz. Kullanıcı kaydınızı "Register" kısmından oluşturun, sonra aynı sayfadaki "Login" kısmından giriş yapın. Artık bu işlemden sonra siteyi daha işlevsel kullanabilirsiniz.
-
-Admin paneline erişmek içinse yine Login kısmından e-mail kısmına "mrtgzn406@gmail.com" , şifre kısmına ise
-"123" yazın, bu rolü "admin" olan bir kullanıcı girişidir ve sizi direkt olarak sitedeki admin paneline yönlendirecektir. Eğer bu admin hesabıyla giriş yaparsanız admin paneline ayrıca "https://murat-gozen-e-commerce.netlify.app/admin" bağlantısı elinizle yazarak da erişebilirsiniz. Ama admin olmayan
-kullanıcılar bu sayfayı görüntüleyemezler.
-
 # Projeyi Kendi Bilgisayarınıza Kurma
 
 Bu projeyi kurmak için ilk önce projeyi indirmeniz gerekir. Projeyi ister "Download ZIP" butonundan zip olarak indirip zipten çıkarın, isterseniz de projeyi klonlayarak indirin. Projeyi indirdikten sonra yapılması gerekenler şunlardır :
